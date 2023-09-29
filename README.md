@@ -20,3 +20,8 @@ See the example site [here.][site]
         - entry point for apache
         - output/post.html
     - sudo systemctl restart httpd
+
+  - Pandoc without pkg manager, cause I accidentally am using Amazon Linux 2023 (what is this no EPEL)
+    - wget https://github.com/jgm/pandoc/releases/download/3.1.8/pandoc-3.1.8-linux-amd64.tar.gz
+    - tar xvzf pandoc-3.1.8-linux-amd64.tar.gz
+    - sudo mv pandoc-3.1.8/bin/* /usr/local/bin/

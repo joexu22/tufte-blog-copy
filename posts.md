@@ -2,8 +2,13 @@
 
 ## Hire Me
 
-This page should be loaded up with some cool example projects to really impress the Dalle Team.
+This page should be loaded up with some cool example projects to really impress the Dall-e Team.
+
 I'm too disorganized right now for something like that, so I'll just leave this here for now.
+
+## Bugs and Feature Requests
+
+Haven't done web dev in a split second, so why doesn't the css work?
 
 # Credit for Code to Aditya Ramesh @ https://x.com/model_mechanic
 

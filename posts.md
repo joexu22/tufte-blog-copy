@@ -8,7 +8,7 @@ I'm too disorganized right now for something like that, so I'll just leave this 
 
 ## Bugs and Feature Requests
 
-Haven't done web dev in a split second, so why doesn't the css work?
+Haven't done web dev in a split second, so why doesn't the css work (more a question to myself)?
 
 # Credit for Code to Aditya Ramesh @ https://x.com/model_mechanic
 

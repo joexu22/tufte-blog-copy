@@ -25,3 +25,7 @@ See the example site [here.][site]
     - wget https://github.com/jgm/pandoc/releases/download/3.1.8/pandoc-3.1.8-linux-amd64.tar.gz
     - tar xvzf pandoc-3.1.8-linux-amd64.tar.gz
     - sudo mv pandoc-3.1.8/bin/* /usr/local/bin/
+
+  - Linux Notes
+    - sudo apachectl configtest
+    - sudo systemctl restart httpd

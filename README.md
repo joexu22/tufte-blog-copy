@@ -17,5 +17,6 @@ See the example site [here.][site]
 ## EC2 Deployments
   - Apache
     - etc/httpd/conf/httpd.conf
-        - entry point for apachett
+        - entry point for apache
+        - output/post.html
     - sudo systemctl restart httpd

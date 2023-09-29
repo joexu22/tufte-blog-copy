@@ -29,3 +29,4 @@ See the example site [here.][site]
   - Linux Notes
     - sudo apachectl configtest
     - sudo systemctl restart httpd
+    - rsync -av --delete ./output/ /var/www/html/output/

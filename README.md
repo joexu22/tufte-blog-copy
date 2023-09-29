@@ -11,3 +11,11 @@ See the example site [here.][site]
 [tufte_css]: http://github.com/edwardtufte/tufte-css
 [pandoc]: http://pandoc.org
 [site]: http://adityaramesh.com/tufte-blog/posts.html
+
+# Notes
+
+## EC2 Deployments
+  - Apache
+    - etc/httpd/conf/httpd.conf
+        - entry point for apachett
+    - sudo systemctl restart httpd

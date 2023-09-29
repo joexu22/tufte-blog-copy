@@ -6,6 +6,10 @@ This page should be loaded up with some cool example projects to really impress 
 
 I'm too disorganized right now for something like that, so I'll just leave this here for now.
 
+[My Fork][fork]
+
+[fork]: https://github.com/joexu22/tufte-blog-copy
+
 ## Credit for Code to Aditya Ramesh @ https://x.com/model_mechanic
 
 These example pages show the various kinds of features supported by Tufte-Blog. See [the Markdown

@@ -32,7 +32,8 @@ global_pandoc_args = ['--standalone', '-t', 'html5+smart', '--section-divs',
 build_targets = {'dev', 'prod'}
 
 site_definitions = {
-    'dev': {'site': {'url': 'file://{}/output/'.format(os.getcwd())}},
+    #'dev': {'site': {'url': 'file://{}/output/'.format(os.getcwd())}},
+    'dev': {'site': {'url': '.'}},
     'prod': {'site': {'url': 'http://adityaramesh.com/tufte-blog/'}}
 }
 
